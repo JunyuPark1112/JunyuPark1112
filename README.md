@@ -1,15 +1,13 @@
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there 👋 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm Junyu </div>
-    <br>Sookmyung Women's University <br> Entrepreneurship / IT Engineering  </div> 
-   
-    
-    
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm Junyu 😄 </div>
+    <br>Sookmyung Women's University <br> Entrepreneurship / IT Engineering  
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Stacks </h2> <br> 
     <div>
-         <br> <h5 sytle= "text-align: left; color: #c9d1d9;" >Prototyping</h5>
+         <h5 sytle= "text-align: left; color: #c9d1d9;" >Prototyping</h5>
          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
          <h5 sytle= "text-align: left; color: #c9d1d9;" >Server</h5>
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
@@ -31,22 +29,16 @@
     <div align= "left"> <a href=https://velog.io/@luckygirlz/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@luckygirlz/posts"> </a>
          <a href=mailto:junyu.park1112@gmail.com> 
          <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junyu.park1112@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+</div>  <br>
+</div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Junyu&bg_color=60,3275cd,b994ff&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+        <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Junyu&bg_color=60,3275cd,b994ff&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junyu&layout=compact&bg_color=60,3275cd,b994ff&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
-
 
     
-
-
-
-
 
 
 
