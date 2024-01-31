@@ -3,6 +3,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there 👋 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm Junyu 😄 <a href="https://chill-hellebore-048.notion.site/Junyu-Park-067dc2e34ba7408c96b8ce25520088ff"><img src="https://img.shields.io/badge/Resume-%23000000?style=flat-square&logo=notion&logoColor=white&link=https%3A%2F%2Fchill-hellebore-048.notion.site%2FJunyu-Park-067dc2e34ba7408c96b8ce25520088ff"></a></div>
     <br>Sookmyung Women's University <br> Entrepreneurship / IT Engineering  <br><br>
+    AWS Solutions Architect Associate Qualified <br><br>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Stacks </h2> <br> 
@@ -40,7 +41,7 @@
 </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-        <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Junyu&bg_color=60,3275cd,b994ff&title_color=ffffff&text_color=ffffff"
+        <div align= "left"> <img src="https://github-readme-stats.vercel.app/api?username=Junyu&bg_color=60,3275cd,b994ff&title_color=ffffff&text_color=ffffff"
          /> </div> 
     </div>
 
