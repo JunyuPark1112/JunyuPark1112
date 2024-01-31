@@ -18,7 +18,7 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white">
         <img src="https://img.shields.io/badge/RDS-%23527FFF?style=flat-square&logo=amazonrds&logoColor=white">
-          <h5 sytle= "text-align: left; color: #c9d1d9;" >Framework</h5>
+          <h5 sytle= "text-align: left; color: #c9d1d9;" >Framework / Runtime Environment</h5>
         <img src="https://img.shields.io/badge/nodeJS-%23339933?style=flat-square&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/nestJS-%23E0234E?style=flat-square&logo=nestjs&logoColor=white">
           <h5 sytle= "text-align: left; color: #c9d1d9;" >Machine Learning</h5>
@@ -26,6 +26,7 @@
           <h5 sytle= "text-align: left; color: #c9d1d9;" >Languages</h5>
          <img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/> 
         <img src= "https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src= "https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
           </div>
     </div>
