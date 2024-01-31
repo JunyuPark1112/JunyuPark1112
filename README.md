@@ -3,7 +3,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there 👋 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm Junyu 😄 <a href="https://chill-hellebore-048.notion.site/Junyu-Park-067dc2e34ba7408c96b8ce25520088ff"><img src="https://img.shields.io/badge/Resume-%23000000?style=flat-square&logo=notion&logoColor=white&link=https%3A%2F%2Fchill-hellebore-048.notion.site%2FJunyu-Park-067dc2e34ba7408c96b8ce25520088ff"></a></div>
     <br>Sookmyung Women's University <br> Entrepreneurship / IT Engineering  <br><br>
-    AWS Solutions Architect Associate Qualified <br><br>
+    AWS Solutions Architect Associate Qualified<br><br>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Stacks </h2> <br> 
@@ -22,6 +22,8 @@
           <h5 sytle= "text-align: left; color: #c9d1d9;" >Framework / Runtime Environment</h5>
         <img src="https://img.shields.io/badge/nodeJS-%23339933?style=flat-square&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/nestJS-%23E0234E?style=flat-square&logo=nestjs&logoColor=white">
+        <h5 sytle= "text-align: left; color: #c9d1d9;" >Cloud</h5>
+        <img src="https://github.com/JunyuPark1112/JunyuPark1112/assets/57251922/eb50b99d-5ddb-4c0f-ae21-774b6d967f18">
           <h5 sytle= "text-align: left; color: #c9d1d9;" >Machine Learning</h5>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
           <h5 sytle= "text-align: left; color: #c9d1d9;" >Languages</h5>
