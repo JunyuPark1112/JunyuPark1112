@@ -22,7 +22,7 @@
           <h5 sytle= "text-align: left; color: #c9d1d9;" >Framework / Runtime Environment</h5>
         <img src="https://img.shields.io/badge/nodeJS-%23339933?style=flat-square&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/nestJS-%23E0234E?style=flat-square&logo=nestjs&logoColor=white">
-        <h5 sytle= "text-align: left; color: #c9d1d9;" >Cloud</h5>
+        <h5 sytle= "text-align: left; color: #c9d1d9;" >Infra</h5>
         <img src="https://github.com/JunyuPark1112/JunyuPark1112/assets/57251922/eb50b99d-5ddb-4c0f-ae21-774b6d967f18">
           <h5 sytle= "text-align: left; color: #c9d1d9;" >Machine Learning</h5>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
